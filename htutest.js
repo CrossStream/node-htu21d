@@ -29,4 +29,3 @@ htu21df.readTemperature(function (err, temp) {
         }
     });
 });
-
